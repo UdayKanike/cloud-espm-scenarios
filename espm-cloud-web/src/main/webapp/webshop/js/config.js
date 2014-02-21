@@ -32,10 +32,10 @@ sap.app.config = {
 	displayAbapPassword : "Espm1234",
 
 	// local JSON model provides customer, items and order for write access
-	orderModelUrl : "data/order.json",
+	orderModelUrl : "/espm-cloud-web/webshop/data/order.json",
 
 	// local JSON model provides countries for address data
-	countriesModelUrl : "data/countries.json",
+	countriesModelUrl : "/espm-cloud-web/webshop/data/countries.json",
 
 	productPlaceholderImg : "images/placeholder.product.150x150.png",
 	// Symbol for Euro

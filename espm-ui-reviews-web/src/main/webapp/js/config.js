@@ -1,6 +1,7 @@
 jQuery.sap.declare("sap.app.config");
 
-jQuery.sap.require("sap.app.localstorage");
+// jQuery.sap.require("sap.app.localstorage");
+jQuery.sap.require('app.localstorage');
 
 sap.app.config = {
 	// location where views of the web application are located
